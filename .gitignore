@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Logs & Temporary files
+*.log
+*.tmp
+.tempmediaStorage/
+tmp/
+scratch/
+
+# Captures and Screenshot Folders
+캡쳐/
+[cC]apture/
+[cC]aptures/
+[sS]creenshot/
+[sS]creenshots/
+
+# Zip Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Environment & Secrets
+.env
+.env.*
+*.pem
+
+# OS & IDE metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
